@@ -1,0 +1,6 @@
+{
+  "name": "TerraVoxel",
+  "description": "A 3D first-person voxel sandbox survival and block-building game with procedural biomes, day-night lighting, crafting, smelting, mobs, and persistent worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
